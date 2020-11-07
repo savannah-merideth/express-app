@@ -1,0 +1,11 @@
+extends layout
+
+block content
+    h1 Page Not Found
+    p Sorry! We couldn't find the page you were looking for.
+    if err
+      p(style="display:none")
+        = err.message
+    br
+    p
+        a.button(href='/') Home

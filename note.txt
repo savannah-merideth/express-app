@@ -1,0 +1,4 @@
+https://medium.com/@jgrisafe/custom-user-authentication-with-express-sequelize-and-bcrypt-667c4c0edef5
+
+https://bezkoder.com/node-js-jwt-authentication-mysql/
+
